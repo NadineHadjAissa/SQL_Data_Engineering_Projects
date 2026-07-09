@@ -44,9 +44,7 @@ The Company Mart summarizes hiring activity by company, location, and job title 
 ![Company Mart](https://raw.githubusercontent.com/lukebarousse/SQL_Data_Engineering_Course/main/Resources/images/1_2_Company_Mart.png)
 
 
-## Acknowledgements
 
-The architecture diagrams used in this README are adapted from the SQL Data Engineering course by Luke Barousse and are included here for educational purposes. The SQL implementation and project work in this repository are my own.
 
 ## 🙏 Acknowledgements
 
