@@ -1,9 +1,5 @@
 # 🏗️ Data Warehouse & Data Mart ETL Pipeline
 
-...
-## Acknowledgements
-
-The architecture diagrams used in this README are adapted from the SQL Data Engineering course by Luke Barousse.
 
 ## 📖 Overview
 
@@ -51,3 +47,7 @@ The Company Mart summarizes hiring activity by company, location, and job title 
 ## Acknowledgements
 
 The architecture diagrams used in this README are adapted from the SQL Data Engineering course by Luke Barousse and are included here for educational purposes. The SQL implementation and project work in this repository are my own.
+
+## 🙏 Acknowledgements
+
+These projects were completed while following the SQL Data Engineering course by Luke Barousse. The datasets and architecture diagrams originate from the course
