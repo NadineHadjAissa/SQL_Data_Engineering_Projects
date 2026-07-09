@@ -1,0 +1,14 @@
+# DuckDB
+*.duck
+*.duck.wal
+*.duckdb
+*.duckdb.wal
+
+# macOS
+.DS_Store
+
+# VS Code extension cache
+.offline-markdown-preview/
+
+# Personal shell config
+.zshrc
