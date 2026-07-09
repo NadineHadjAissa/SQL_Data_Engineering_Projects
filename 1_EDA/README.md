@@ -2,10 +2,6 @@
 
 ![Project Banner](https://github.com/lukebarousse/SQL_Data_Engineering_Course/blob/main/Resources/images/1_1_Project1_EDA.png?raw=true)
 
-## Acknowledgements
-
-The architecture diagrams used in this README are adapted from the SQL Data Engineering course by Luke Barousse.
-
 
 ## 📖 Overview
 
@@ -157,7 +153,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 📚 Data Source
+## Acknowledgements
 
 The dataset used in this project comes from **Luke Barousse's SQL Data Engineering Course**, which provides real-world job posting data for learning SQL and data analytics.
 
